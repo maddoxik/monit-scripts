@@ -1,0 +1,2 @@
+# monit-scripts
+Monit scripts
